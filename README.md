@@ -1,5 +1,17 @@
 # elm-test [![Travis build Status](https://travis-ci.org/elm-community/elm-test.svg?branch=master)](http://travis-ci.org/elm-community/elm-test)
 
+>> !! Temporarily publishing for 0.18.0 support
+
+[elm-community/elm-test @ 0.17.0 Link](http://package.elm-lang.org:8018/packages/elm-community/elm-test/latest)
+
+>> elm-package.json update:
+
+```
+"repository": "https://github.com/elm-community/elm-test.git",
+```
+
+[Github Repo](https://github.com/elm-community/elm-test.git)
+
 Write unit and fuzz tests for your Elm code, in Elm.
 
 ## Quick Start
